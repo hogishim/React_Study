@@ -4,12 +4,12 @@
 
 ### React developer tools: 크롬에서 설치 가능한 확장 프로그램
 
-![Untitled](%E1%84%89%E1%85%A5%E1%86%BC%E1%84%82%E1%85%B3%E1%86%BC%20%E1%84%80%E1%85%A2%E1%84%89%E1%85%A5%E1%86%AB%20f16de652d71e4f66b5378bbda173671e/Untitled.png)
+![Untitled](Improve/Untitled.png)
 
 - Components 탭에서 개발중인 사이트를 component로 확인할 수 있다
 - 전달되는 props값 그리고 state값 같은 내용을 확인할 수 있다
 
-![캡처6.png](%E1%84%89%E1%85%A5%E1%86%BC%E1%84%82%E1%85%B3%E1%86%BC%20%E1%84%80%E1%85%A2%E1%84%89%E1%85%A5%E1%86%AB%20f16de652d71e4f66b5378bbda173671e/%25EC%25BA%25A1%25EC%25B2%25986.png)
+![캡처6.png](Improve/%25EC%25BA%25A1%25EC%25B2%25986.png)
 
 - Profiler탭에서 녹화 버튼을 누르고, 페이지를 넘기거나 버튼을 조작하는 등 과정을 거치고 녹화를 끝낸다
 - 녹화된 상태에서 각 동작들의 소요시간을 확인할 수 있는데, 시간이 많이 소요된 부분을 확인할 수 있다

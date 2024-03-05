@@ -6,13 +6,13 @@
 
 - 작업할 폴더를 하나 만들고, 폴더에서 CMD창을 열고, `npx create-react-app [프로젝트명]`을 입력해주면 알아서 필요한 내용들이 자동으로 생성된다
 
-![Untitled](React%20Introduction%20584a7f0359e24f25a4d4fd1d4ec1b561/Untitled.png)
+![Untitled](React%20Introduction/Untitled.png)
 
 - `node_modules`폴더에는 프로젝트 구동에 필요한 라이브러리 코드가 들어있다
 - `public`파일은 static변수를 모아놓는 곳이다
 - `src`는 소스파일이 들어있는 폴더이다
     
-    ![Untitled](React%20Introduction%20584a7f0359e24f25a4d4fd1d4ec1b561/Untitled%201.png)
+    ![Untitled](React%20Introduction/Untitled%201.png)
     
     - App.js의 내용이 main으로 들어가는 code로, App.js의 내용이 index.js를 통해서 main HTML파일인 index.html에 표시되게 된다
 
