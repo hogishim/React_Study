@@ -24,7 +24,7 @@
 
 [Redux Toolkit: 간단한 전역 관리 tool](react/React/Redux.md)
 
-[Localstorage: 브라우저를 새로고침해도 값을 유지](react/React/LocalStorage.md)
+[Localstorage: 브라우저를 새로고침해도 값을 유지](react/React/Localstorage.md)
 
 [React-query: 실시간 데이터에 유리](react/React/React-query.md)
 
